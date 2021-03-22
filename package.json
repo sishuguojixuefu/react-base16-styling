@@ -5,6 +5,11 @@
   "main": "lib/index.js",
   "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
   "license": "MIT",
+  "files": [
+    "lib",
+    "package.json",
+    "README.md"
+  ],
   "bugs": {
     "url": "https://github.com/alexkuz/react-base16-styling/issues"
   },
