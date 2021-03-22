@@ -1,6 +1,6 @@
 {
   "name": "@sishuguojixuefu/react-base16-styling",
-  "version": "0.4.7",
+  "version": "0.4.8",
   "description": "React styling with base16 color scheme support",
   "main": "lib/index.js",
   "author": "Alexander <alexkuz@gmail.com> (http://kuzya.org/)",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@sishuguojixuefu/base16": "^1.0.1",
-    "color-space": "^1.14.3",
+    "@grewer/color-space": "^1.14.3",
     "lodash.curry": "^4.0.1",
     "lodash.flow": "^3.3.0",
     "pure-color": "^1.2.0"
